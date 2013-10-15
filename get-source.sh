@@ -1,5 +1,5 @@
 sudo apt-get update
-sudo apt-get install pkg-config
+sudo apt-get install pkg-config python-dev
 
 wget https://cityhash.googlecode.com/files/cityhash-1.1.1.tar.gz
 tar zxvf cityhash-1.1.1.tar.gz
